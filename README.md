@@ -1,1 +1,1 @@
-# [Linux Club Website]{https://linux-club.vercel.app/}
+# [Linux Club Website](https://linux-club.vercel.app)
