@@ -1,5 +1,5 @@
 ---
-name: 
+name: Linux Club
 avatar: /static/images/avatar.png
 email: 
 twitter: 
