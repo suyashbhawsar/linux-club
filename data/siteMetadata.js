@@ -1,6 +1,5 @@
 const siteMetadata = {
   title: 'Linux Club',
-  author: 'Suyash Bhawsar',
   headerTitle: 'Linux Club',
   description: 'We believe to do real world things like Freelance Projects & Open-source Contributions. So, in this community, all the students are teaching and learning at the same time using Open-source softwares.',
   language: 'en-us',
