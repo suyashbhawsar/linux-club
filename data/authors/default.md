@@ -1,5 +1,5 @@
 ---
-name: Suyash Bhawsar
+name: Linux Club
 avatar: /static/images/logo.png
 email: 
 twitter: 
