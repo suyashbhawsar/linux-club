@@ -1,6 +1,6 @@
 ---
 name: Linux Club
-avatar: /static/images/logo.png
+avatar: /static/images/logo_square.png
 email: 
 twitter: 
 linkedin: 
