@@ -3,7 +3,7 @@ name: Linux Club
 avatar: /static/images/logo_square.png
 email: 
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/groups/9274714/
 github: https://github.com/linux-club-dev
 ---
 
