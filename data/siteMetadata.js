@@ -13,7 +13,7 @@ const siteMetadata = {
   github: 'https://github.com/linux-club-dev',
   twitter: 'https://twitter.com/Twitter',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/groups/9274714/',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
