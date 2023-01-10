@@ -1,6 +1,6 @@
 ---
 name: Suyash Bhawsar
-avatar: /static/images/avatar.png
+avatar: /static/images/suyash-avatar.png
 occupation: Freelancer
 email: suyashbhawsar@outlook.com
 twitter: https://twitter.com/suyashsbhawsar
