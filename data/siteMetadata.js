@@ -11,7 +11,7 @@ const siteMetadata = {
   socialBanner: '/static/images/twitter-card.png',
   email: 'address@yoursite.com',
   github: 'https://github.com/linux-club-dev',
-  twitter: 'https://twitter.com/Twitter',
+  twitter: 'https://twitter.com/i/communities/1607126742795448320',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/groups/9274714/',
   locale: 'en-US',
