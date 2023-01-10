@@ -8,3 +8,5 @@ summary: 'Discover the world of shells through this beginner-friendly blog.'
 images: ['/static/images/canada/Gnu-bash-logo.png']
 authors: ['suyash']
 ---
+
+![BASH](/static/images/Gnu-bash-logo.png)
