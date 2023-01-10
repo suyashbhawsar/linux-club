@@ -2,8 +2,8 @@
 name: Linux Club
 avatar: /static/images/logo_square.png
 email: 
-twitter: 
-linkedin: https://www.linkedin.com/groups/9274714/
+twitter: https://twitter.com/i/communities/1607126742795448320
+linkedin: https://www.linkedin.com/groups/9274714
 github: https://github.com/linux-club-dev
 ---
 
