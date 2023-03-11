@@ -12,6 +12,7 @@ const siteMetadata = {
   email: 'address@yoursite.com',
   github: 'https://github.com/linux-club-dev',
   twitter: 'https://twitter.com/i/communities/1607126742795448320',
+  instagram: 'https://instagram.com/the_linux.club?igshid=YmMyMTA2M2Y=',
   youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com/groups/9274714/',
   locale: 'en-US',
