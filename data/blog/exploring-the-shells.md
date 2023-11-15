@@ -5,7 +5,7 @@ lastmod: '2023-01-10'
 tags: ['shell', 'linux', 'bash', 'zsh', 'fish', 'ksh', 'tcsh', 'ash', 'dash']
 draft: false
 summary: 'Discover the world of shells through this beginner-friendly blog.'
-images: ['/static/images/canada/Gnu-bash-logo.png']
+images: ['/static/images/Gnu-bash-logo.png', '/static/images/Z_Shell_Logo.png', '/static/images/Fish-shell-logo-ascii.png']
 authors: ['suyash']
 ---
 
@@ -34,6 +34,9 @@ Zsh (Z Shell) is often hailed as a power user's shell, offering:
 - **Themes and plugins:** Oh My Zsh is a beloved framework for managing Zsh configurations.
 - **Advanced scripting:** Offers features like floating-point arithmetic and enhanced globbing.
 
+![ZSH](/static/images/Z_Shell_Logo.png)
+
+
 ## Fish: A Friendly, Interactive Shell
 
 Fish (Friendly Interactive SHell) is known for its user-friendliness, with features like:
@@ -41,6 +44,9 @@ Fish (Friendly Interactive SHell) is known for its user-friendliness, with featu
 - **Auto-suggestions:** Fish suggests commands as you type, based on history and completions.
 - **Web-based configuration:** Customize your Fish setup through a web interface.
 - **Syntax highlighting:** Commands are color-coded for better readability.
+
+![FISH](/static/images/Fish-shell-logo-ascii.png)
+
 
 ## Ksh: The Korn Shell
 
