@@ -15,8 +15,13 @@ authors: ['suyash']
 Selecting a shell depends on your needs:
 
 **Bash** is great for beginners and those seeking broad compatibility.
+
 **Zsh** suits users seeking advanced features and customizability.
+
 **Fish** appeals to those desiring a user-friendly, feature-rich experience.
+
 **Ksh** is ideal for those working in enterprise environments.
+
 **Tcsh** resonates with those who prefer C-like syntax.
+
 **Ash/Dash** are perfect for lightweight environments or embedded systems.
