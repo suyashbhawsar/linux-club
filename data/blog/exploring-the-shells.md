@@ -9,8 +9,6 @@ images: ['/static/images/canada/Gnu-bash-logo.png']
 authors: ['suyash']
 ---
 
-![BASH](/static/images/Gnu-bash-logo.png)
-
 Welcome to our exploration of the varied landscape of Linux shells! These powerful interfaces are more than just a user's gateway to interacting with the operating system; they're a testament to Linux's flexibility and diversity. In this guide, we'll delve into the nuances of popular shells like Bash, Zsh, Fish, Ksh, Tcsh, Ash, and Dash, examining their unique features, strengths, and how they fit into the larger Linux ecosystem.
 
 ## Introduction to Linux Shells
@@ -24,6 +22,9 @@ Bash (Bourne Again SHell) is the most common default shell in Linux distribution
 - **Scripting capabilities:** Bash scripts are powerful tools for automating tasks.
 - **Compatibility:** It's the default on many Unix-like systems, ensuring widespread support.
 - **Customizability:** Bash can be tailored with aliases, functions, and prompts.
+
+![BASH](/static/images/Gnu-bash-logo.png)
+
 
 ## Zsh: The Power User's Choice
 
