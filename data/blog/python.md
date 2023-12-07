@@ -2,7 +2,7 @@
 title: 'PYTHON'
 date: '2023-12-07'
 lastmod: '2023-12-07'
-tags: ['python', 'linux', 'bash', 'zsh', 'fish', 'ksh', 'tcsh', 'ash', 'dash']
+tags: ['python', 'linux', 'bash', 'zsh', 'ML', 'web', 'DS']
 draft: false
 summary: 'Discover the world of shells through this beginner-friendly blog.'
 authors: ['gayatri']
@@ -76,19 +76,6 @@ Python, the versatile and powerful programming language, has become a favorite a
 
 - **Strings:**
   - Working with strings and text manipulation.
-
-## Object-Oriented Programming (OOP) in Python
-
-- **Classes and Objects:**
-
-  - Defining and using classes and objects.
-
-- **Inheritance, Encapsulation, and Polymorphism:**
-
-  - Exploring OOP concepts.
-
-- **Practical Examples:**
-  - Applying OOP principles in real-world scenarios.
 
 ## File Handling
 
